@@ -1,6 +1,6 @@
 ---
 title: A post with figures and video
-date: '2019-06-18'
+date: 2019-06-18
 tags:
   - demo-content
   - blog
@@ -23,3 +23,5 @@ Finally, how about a `<blockquote>`?
 ![Person holds up a photograph of a riverside and buildings with the same river as a backdrop](/images/demo-image-2.jpg "Remember, if you want a figure and caption, add a 'title' attribute to image in the body field — Photo by Kharytonova Antonina on Unsplash.")
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+![Space](/images/141279-large-minimalist-desktop-wallpaper-2560x1600-large-resolution.jpg "Space")
